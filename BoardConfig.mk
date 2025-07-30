@@ -48,7 +48,7 @@ BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_KERNEL_SEPARATED_DTBO := true
 TARGET_KERNEL_CONFIG := generic_defconfig
-TARGET_KERNEL_SOURCE := kernel/xiaomi/generic
+TARGET_KERNEL_SOURCE := kernel/xiaomi/onyx-kernel
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
